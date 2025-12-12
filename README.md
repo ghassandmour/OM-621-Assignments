@@ -1,8 +1,9 @@
 # OM 621 Assignments
 This Repository includes my assignments from my Advanced Visual Analytics Class (OM621)
 
-##  Project Video Overview
-https://github.com/user-attachments/assets/71f7fd6a-9f3d-4d20-997f-c3f309887990
+
+
+
 
 
 ## Project Overview
@@ -27,5 +28,4 @@ The Power BI dashboard provides an interactive view of transportation costs and 
 - Transportation invoice amounts exhibit strong and consistent seasonality  
 - Shipment delays vary significantly by transportation mode and region  
 - Some transportation modes show year-over-year cost growth, while others remain stable  
-- Seasonal time-series models are well-suited for transportation cost forecasting  
 - Interactive dashboards enhance executive decision-making by enabling flexible analysis
