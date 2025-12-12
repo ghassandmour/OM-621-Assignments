@@ -3,6 +3,8 @@ This Repository includes my assignments from my Advanced Visual Analytics Class 
 
 ## 🎥 Project Video Overview
 
+## 🎥 Project Video Overview
+[watch the project overview video](https://github.com/ghassandmour/OM-621-Assignments/releases/download/v1.0/OM621.VIDEO.mp4)
 
 
 ## Project Overview
