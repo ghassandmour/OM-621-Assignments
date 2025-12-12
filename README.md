@@ -2,7 +2,7 @@
 This Repository includes my assignments from my Advanced Visual Analytics Class (OM621)
 
 ##  Project Video Overview
-https://github.com/ghassandmour/OM-621-Assignments/releases/download/v1.0/OM621.VIDEO.mp4
+<video src="video/OM621 VIDEO.mp4" controls width="100%"></video>
 
 
 
@@ -13,14 +13,14 @@ This project contains Assignments completed for OM 621: Advanced Visual Analytic
 ## 3-Minute Story
 Transportation costs are challenging to forecast because invoices are often received weeks or months after shipments occur. By examining historical invoice amounts, shipment delays, and transportation modes, this project uncovers consistent seasonal patterns and meaningful differences across modes. These insights allow supply chain leaders to anticipate future transportation costs, evaluate performance by mode, and make more informed planning and budgeting decisions using data-driven forecasts rather than reactive estimates.
 
-## Storyboard (Summary)
+## Storyboard 
 - **Problem Context:** Delayed transportation invoices complicate cost forecasting  
 - **Data & Exploration:** Invoice amounts, shipment dates, delays, and transportation modes  
 - **Key Insights:** Seasonal patterns and mode-specific cost and delay behavior  
 - **Solution:** Forecasting-ready analysis and an interactive executive dashboard  
 
 ## Notebook Overview
-The Jupyter notebooks in this repository perform data cleaning, feature engineering, exploratory analysis, and visualization using Python. Key tasks include creating a delay feature from shipping and invoice dates, analyzing delay distributions, visualizing invoice time series, and identifying seasonality and trends across transportation modes to support forecasting.
+The notebook in this repository perform data cleaning, exploratory analysis, and visualization using Python. Key tasks include creating a delay feature from shipping and invoice dates, analyzing delay distributions, visualizing invoice time series, and identifying seasonality and trends across transportation modes to support forecasting.
 
 ## Power BI Overview
 The Power BI dashboard provides an interactive view of transportation costs and delays through full ETL, data modeling, and visualization. The dashboard includes overview metrics, delay analysis by mode and region, and time-series forecasting with seasonality. Interactive filters allow users to explore results by transportation mode, manufacturing site, region, and division.
