@@ -2,9 +2,7 @@
 This Repository includes my assignments from my Advanced Visual Analytics Class (OM621)
 
 ##  Project Video Overview
-<video src="video/OM621 VIDEO.mp4" controls width="100%"></video>
-
-
+https://github.com/user-attachments/assets/71f7fd6a-9f3d-4d20-997f-c3f309887990
 
 
 ## Project Overview
